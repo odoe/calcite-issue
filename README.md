@@ -8,4 +8,4 @@ The project was created using [`npm create vite`](https://vitejs.dev/guide/#scaf
 
 Run `npm install` and then start adding modules.
 
-For a list of all available `npm` commands see `scripts` in `package.json`, e.g. `npm run build`.
+For a list of all available `npm` commands see `scripts` in `package.json`, e.g. `npm run build`.# calcite-issue
